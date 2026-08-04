@@ -12,4 +12,4 @@
 1. Activate virtual environment:
    ```bash
    source venv/bin/activate
-2. Change the score variable to whatever score you want to input your grade
+2. Change the score variable located in the src/main.py to whatever score you want to input your grade
