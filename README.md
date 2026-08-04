@@ -10,6 +10,8 @@
 
 ## Execution Instructions
 1. Activate virtual environment:
-   ```bash
-   source venv/bin/activate
-2. Change the score variable located in the src/main.py to whatever score you want to input your grade
+   `source venv/bin/activate`
+2. Run main script:
+   `python3 src/main.py`
+3. Run test cases:
+   `python3 tests/test_cases.py`
